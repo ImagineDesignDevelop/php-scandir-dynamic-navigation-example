@@ -1,0 +1,51 @@
+body{
+	width:100%;
+	padding:0;
+	margin:0;
+	font-family: 'proxima-nova', 'Raleway', Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+.header{
+	margin:0 atuo;
+	background-color:#424242;
+	height:100px;
+	line-height: 100px;
+	color:#ffffff;
+	text-align: center;
+}
+.header h1{
+	margin:0;
+}
+
+.cars-nav{
+	background-color:#5F5F5F;
+	height: 50px;
+}
+.cars-nav ul{
+	margin:0;
+	text-align: center;
+}
+.cars-nav ul li{
+	text-decoration: none;
+	list-style: none;
+	display: inline;
+	margin:0 15px;
+}
+.cars-nav ul li a{
+	text-decoration: none;
+	line-height: 50px;
+	color:#ffffff;
+}
+.cars-nav ul li a:hover{
+	color:#cccccc;
+}
+.car-overview{
+	margin-top:100px;
+	margin-bottom:100px;
+	text-align: center;
+}
+.car-overview .car-content{
+	width:980px;
+	margin:0 auto;
+}
